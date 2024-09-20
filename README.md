@@ -55,5 +55,8 @@ crée un compte fait ( =5 points)
 Etape 2 : 
 Configure Secret 
 
+![image](https://github.com/user-attachments/assets/eee089f4-3110-4b52-95a3-857a7edc3ae4)
+
+
 
 
