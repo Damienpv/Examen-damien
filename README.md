@@ -30,6 +30,7 @@ CMD ["uvicorn", "app.mini-groq:app", "--host", "0.0.0.0", "--port", "8001"]
 On teste de build
 docker build -t groq-api .
 docker run -p 8001:8001 groq-api
+![image](https://github.com/user-attachments/assets/35bf7a52-ad69-47c7-8d5e-6f1847df9a57)
 
 https://github.com/user-attachments/assets/d00d3bbe-2bc9-44df-9231-5b6865391c70
 
