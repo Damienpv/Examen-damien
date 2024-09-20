@@ -12,4 +12,24 @@ ReadMe de l'examen
 Ensuite l'app démarre
 https://github.com/user-attachments/assets/4d291984-95cd-44d8-8d8f-d3ec6c728cf1
 
+Part 2 :
+Création du dockerfile ( voici le docker) 
+
+FROM tiangolo/uvicorn-gunicorn:python3.11
+
+WORKDIR /app
+
+COPY . /app
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+EXPOSE 8001
+
+CMD ["uvicorn", "app.mini-groq:app", "--host", "0.0.0.0", "--port", "8001"]
+
+On teste de build
+docker build -t groq-api .
+docker run -p 8001:8001 groq-api
+
+
 
