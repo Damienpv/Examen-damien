@@ -10,5 +10,6 @@ ReadMe de l'examen
 2 - Editer le code .py pour lui indiquer de prendre en compte la variable env et rajouter le import os qui manque
 
 Ensuite l'app démarre
-https://github.com/user-attachments/assets/f6b68cc6-25fe-4237-8cbb-031f34d65224
+https://github.com/user-attachments/assets/4d291984-95cd-44d8-8d8f-d3ec6c728cf1
+
 
