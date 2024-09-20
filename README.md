@@ -42,3 +42,18 @@ Ping du serv puis le test .sh
 ![test sh](https://github.com/user-attachments/assets/686d14ad-484d-4db6-87e8-4e838eedbff4)
 
 
+
+
+
+
+DockerHub Repository and GitHub action 
+
+Etape 1 : 
+crée un compte fait ( =5 points)
+![image](https://github.com/user-attachments/assets/61f5b37c-69bc-4ff3-ac22-a0be6134adf1)
+
+Etape 2 : 
+Configure Secret 
+
+
+
