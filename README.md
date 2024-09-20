@@ -35,6 +35,10 @@ docker run -p 8001:8001 groq-api
 https://github.com/user-attachments/assets/d00d3bbe-2bc9-44df-9231-5b6865391c70
 
 
+Ping du serv puis le test .sh
+![ping op](https://github.com/user-attachments/assets/86a632fd-85c0-423f-83da-0e9c7923d994)
 
+
+![test sh](https://github.com/user-attachments/assets/686d14ad-484d-4db6-87e8-4e838eedbff4)
 
 
