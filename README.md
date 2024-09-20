@@ -31,5 +31,9 @@ On teste de build
 docker build -t groq-api .
 docker run -p 8001:8001 groq-api
 
+https://github.com/user-attachments/assets/d00d3bbe-2bc9-44df-9231-5b6865391c70
+
+
+
 
 
